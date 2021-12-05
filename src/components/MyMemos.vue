@@ -73,7 +73,6 @@ export default {
       this.saveMemos()
     },
     updateMemo (key) {
-      console.log(key)
       this.memos[key] = this.renewedMemo
       this.saveMemos()
       this.renewedMemo = ''
