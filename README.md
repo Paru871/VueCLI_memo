@@ -1,9 +1,13 @@
-# Vue CLI Memo App SPA
+# VueCLI MEMO_APP(SPA)
 
-## Vue CLIを使ってSPAとしてメモアプリを作ろう。
+## Project setup
 
-- 一覧
-- 詳細
-- 追加
-- 編集
-- 削除
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
